@@ -1,0 +1,7 @@
+numpy
+torch
+torchvision
+torchbiomed
+setproctitle
+graphviz
+https://github.com/lcy123222/lcy.git
